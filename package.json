@@ -1,7 +1,7 @@
 {
   "name": "@mak12/react-native-background-geolocation",
   "version": "0.7.7",
-  "description": "Optimized background location tracking",
+  "description": "Optimized background location tracking FORK",
   "main": "./index.js",
   "types": "./index.d.ts",
   "scripts": {
